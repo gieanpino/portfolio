@@ -1,0 +1,119 @@
+ .contentmain{
+  width:70%;
+  text-align: center;
+  float:left;
+}
+.info{
+  margin-top: 0px;
+  height: 600px;
+  
+}
+.img{
+  width: 50%;
+  height: 200px;
+}
+.d1{
+  margin-top: 100px;
+  padding-top: 200px;
+  font-size: 55px;
+  font-family:monospace;
+  font-weight: bold;
+  color:  #334658;
+  line-height:70px;
+}
+.d2{
+  font-size: 17px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:  #545555;
+  
+}
+.d3{
+  padding-left: 10%;
+  padding-right: 40px;
+  padding-top: 50px;
+  font-size: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+  color:  #626262;
+  text-align:justify;
+  letter-spacing: 1px;
+}
+.redes{
+  padding-top: 90px;
+  padding-left: 15%;
+  padding-right: 5%;
+   letter-spacing: 70px;
+  text-align:center;
+  margin: auto;
+}
+.fab {
+  font-size: 50px;
+  color:#4a6580;
+}
+.linea{
+  border-top: 1px solid rgba(156, 156, 156, 0.678);
+  height: 2px;
+  padding: 0;
+  margin: 40px 10% 5px 10%;
+}
+@media (max-width: 500px) {
+   .contentmain{
+    width:100%;
+    margin-top: 200px;
+    text-align: center;
+    position:fixed;
+    text-align: center;
+   height: 100%; 
+  }
+  .info{
+    margin-top: 0px;
+    height: 600px;
+    
+  }
+  .img{
+    width: 50%;
+    height: 200px;
+  }
+  .d1{
+    margin-top: 100px;
+    padding-top: 200px;
+    font-size: 55px;
+    font-family:monospace;
+    font-weight: bold;
+    color:  #334658;
+    line-height:70px;
+  }
+  .d2{
+    font-size: 17px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:  #545555;
+    
+  }
+  .d3{
+    padding-left: 10%;
+    padding-right: 40px;
+    padding-top: 50px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:  #626262;
+    text-align:justify;
+    letter-spacing: 1px;
+  }
+  .redes{
+    padding-top: 90px;
+    padding-left: 15%;
+    padding-right: 5%;
+     letter-spacing: 70px;
+    text-align:center;
+    margin: auto;
+  }
+  .fab {
+    font-size: 50px;
+    color:#4a6580;
+  }
+  .linea{
+    border-top: 1px solid rgba(156, 156, 156, 0.678);
+    height: 2px;
+    padding: 0;
+    margin: 40px 10% 5px 10%;
+  }
+}
